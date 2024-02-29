@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: gypsyAPI
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: NOYON AHAMMAD
+    family-names: KHAN
+    email: noyonahammadkhan01@gmail.com
+identifiers:
+  - type: url
+    value: 'https://github.com/NoyonAhammadKhan/gypsyAPI.git'
+repository-code: 'https://github.com/NoyonAhammadKhan/gypsyAPI.git'
+url: 'https://github.com/NoyonAhammadKhan/gypsyAPI.git'
+abstract: >-
+  GypsyApi is a versatile Python web framework designed to
+  empower developers to create robust and scalable APIs with
+  ease. It offers a comprehensive set of features, allowing
+  you to focus on building innovative solutions while
+  maintaining a clean and maintainable codebase.
+keywords:
+  - gypsyAPI
+  - python web framework
+license: MIT
+version: 0.1.0

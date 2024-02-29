@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "gypsyapi"
+version = "0.1.0"
+description = "GypsyApi is a versatile Python web framework designed to empower developers to create robust and scalable APIs with ease. It offers a comprehensive set of features, allowing you to focus on building innovative solutions while maintaining a clean and maintainable codebase."
+authors = ["Noyon Ahammad Khan"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11"
+pre-commit = "^3.6.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
